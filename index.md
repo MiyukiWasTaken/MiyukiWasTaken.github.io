@@ -1,6 +1,6 @@
 ---
 layout: promo-page
-title: Mais qui sui-je ?
+title: Mais qui suis-je ?
 description: "Voici mon CV en ligne."
 menubar: menu_bar
 hero_image: assets/imgs/portrait.JPG
@@ -17,7 +17,7 @@ Disponible 2 mois à partir de juillet
 
 [E-Mail](mailto:raphael.peru@etu.unilasalle.fr)
 
-[LinkedIn](https:/www.linkedin.com/in/raphaël-peru-693394358/raphaël-peru-693394358/)
+[LinkedIn](https:/www.linkedin.com/in/raphaël-peru-693394358)
 
 Permis B, voiture
 
