@@ -3,7 +3,7 @@ layout: page
 title: Mon parcours
 description: "Voici mon parcours scolaire"
 menubar: menu_ba
-download_cv: assets/docs/Template_CV.pdf
+download_cv: assets/docs/Raphaël_PERU_CV.pdf
 robots: noindex 
 ---
 

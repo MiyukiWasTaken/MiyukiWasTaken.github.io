@@ -1,9 +1,9 @@
 ---
 layout: promo-page
-title: Qui suis-je?
-description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
+title: Mais qui sui-je ?
+description: "Voici mon CV en ligne."
 menubar: menu_bar
-hero_image: assets/imgs/image.png
+hero_image: assets/imgs/portrait.JPG
 hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 robots: noindex 
