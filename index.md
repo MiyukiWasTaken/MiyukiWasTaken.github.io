@@ -9,15 +9,15 @@ hero_image_ratio: is-1by1
 robots: noindex 
 ---
 
-# Prénom NOM
-Elève ingénieur en [préciser sa spécialité]
+# Raphaël PERU
+Elève ingénieur en bachelor Ingénieries Numérique
 
 
-Disponible XX mois à partir de Date
+Disponible 2 mois à partir de juillet
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[E-Mail](mailto:raphael.peru@etu.unilasalle.fr)
 
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
+[LinkedIn](https:/www.linkedin.com/in/raphaël-peru-693394358/raphaël-peru-693394358/)
 
 Permis B, voiture
 
