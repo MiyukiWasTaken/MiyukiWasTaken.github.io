@@ -1,68 +1,64 @@
 ---
 layout: page
 title: Mon parcours
-description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
-menubar: menu_bar
+description: "Voici mon parcours scolaire"
+menubar: menu_ba
 download_cv: assets/docs/Template_CV.pdf
 robots: noindex 
 ---
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2024 – 2027`
+**Bachelor Ingénieries Numériques - UniLaSalle Amiens**
 
-Elève ingénieur en [préciser la spécialité]
-* Cours : préciser les cours en phase avec le poste visé
+* Cours : Programmation C, Programmation Python, Conception 3D, Analyse de données, Base de données relationnelles, Automatisme, Lean Management, Maintenance, etc.
+* Projets : Réalisation d'un robot suiveur de ligne, Réalisation d'une pièce d'échec et de son coffret en bois
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
-
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+`2024`
+**Bac STI2D SIN, mention Assez Bien - Lycée Saint-Riquier, Amiens**
 
 ## Expériences
 
-`20XX` **Projet d’étude – préciser le thème du projet**
+`2026` **Mobilité internationnale - Réalisation d'une console faisant tourner un jeu Snake**
 
-_Réalisé en équipe de XX étudiants_
+_Réalisé en équipe de 2 étudiants_
+* Création de la console (Soudure, Cablage)
+* Codage du jeu Snake (Language C, utilisation d'Arduino)
+* Résolution de problèmes (Court-circuits, debug)
+
+
+`2025` **Métarom, Producteur d'arômes, Boves**
+
+_Stage – Opérateur de conditionnement_
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 * Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-
-
-`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
-
-_Stage – intitulé du poste_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-
-`20XX` **Association, description de l’asso., taille**
-
-_Intitulé du poste dans une équipe de XX membres_
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 
 ## Compétences
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+* Francais : Natif (684 au Projet Voltaire)
+* Anglais : B2 (905 points au TOEIC)
+* Allemand : A2
 
 Informatique
-* Logiciels maitrisés
-* Logiciels maitrisés
-
-Autres
-* Autres diplômes ou permis spéciaux
+* Visual Studio Code
+* Excel, Word, Powerpoint
+* OnShape
+* Arduino IDE
+* Langages : C, Python, HTML, CSS, SQL
 
 ## Centres d’intérêt
 
-Loisirs 1
-* Description 
-* Description 
+Jeux Vidéos
+* Compétitif / Coopératif
+* Hero Shooter (Overwatch)
+* Tactical Shooter (VALORANT)
 
-Loisirs 1
-* Description 
-* Description 
+Ecoute musicale
+* Rap francais (Jolagreen23, Josman, Khali, Yvnnis, La Fève, Kerchak, Dau, La Mano 1.9, La Rvfleuze, Luther, Laylow, Selug, Zola, Nono La Grinta, etc)
+
+Culture japonaise
+* Anime
+* Manga
