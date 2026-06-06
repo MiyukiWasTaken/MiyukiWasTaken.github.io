@@ -1,9 +1,9 @@
 ---
-title: Projet 1
-subtitle: Projet informatique
-description: Description du projet 1
+title: Console Snake
+subtitle: Projet électronique
+description: Durant une mobilité internationnale, un camarade et moi avons dû réaliser une console fais mains pouvant faire tourner un jeu Snake.
 layout: product
-image: https://via.placeholder.com/640x480
+image: assets/imgs/Console Snake.jpg
 robots: noindex 
 ---
 
