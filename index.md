@@ -15,7 +15,7 @@ Elève ingénieur en Bachelor Systèmes Numérique et Innovants
 
 Disponible 2 à 4 mois à partir de juin
 
-[E-Mail](mailto:raphael.peru@etu.unilasalle.fr)
+[E-Mail personnel](mailto:raphaelperu80@gmail.com) / [E-Mail étudiant](mailto:raphael.peru@etu.unilasalle.fr)
 
 [LinkedIn](https://www.linkedin.com/in/raphaël-peru-693394358)
 
