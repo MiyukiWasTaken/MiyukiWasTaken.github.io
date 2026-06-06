@@ -1,8 +1,8 @@
 ---
-title: Projet 2
+title: Robot suiveur de lignes
 subtitle: Projet électronique
 layout: product
-image: https://via.placeholder.com/640x480
+image: assets/imgs/Line-Following Robot.gif
 robots: noindex 
 ---
 

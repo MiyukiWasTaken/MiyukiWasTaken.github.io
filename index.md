@@ -10,7 +10,7 @@ robots: noindex
 ---
 
 # Raphaël PERU
-Elève ingénieur en Bachelor Systèmes Numérique et Innovants
+Elève ingénieur en Bachelor Systèmes Numériqued et Technologies Innovantes
 
 
 Disponible 2 à 4 mois à partir de juin
