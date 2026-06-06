@@ -10,14 +10,14 @@ robots: noindex
 ---
 
 # Raphaël PERU
-Elève ingénieur en bachelor Ingénieries Numérique
+Elève ingénieur en Bachelor Systèmes Numérique et Innovants
 
 
-Disponible 2 mois à partir de juillet
+Disponible 2 à 4 mois à partir de juin
 
 [E-Mail](mailto:raphael.peru@etu.unilasalle.fr)
 
-[LinkedIn](https:/www.linkedin.com/in/raphaël-peru-693394358)
+[LinkedIn](https://www.linkedin.com/in/raphaël-peru-693394358)
 
 Permis B, voiture
 
