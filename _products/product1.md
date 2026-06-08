@@ -3,7 +3,7 @@ title: Console Snake
 subtitle: Projet électronique
 description: Durant une mobilité internationnale, un camarade et moi avons dû réaliser une console fais mains pouvant faire tourner un jeu Snake.
 layout: product
-image: assets/imgs/Console Snake.jpg
+image: ../../assets/imgs/Console Snake.jpg
 robots: noindex 
 ---
 

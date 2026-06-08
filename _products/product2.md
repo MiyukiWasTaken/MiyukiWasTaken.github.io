@@ -2,7 +2,7 @@
 title: Robot suiveur de lignes
 subtitle: Projet électronique
 layout: product
-image: assets/imgs/Line-Following Robot.gif
+image: ../../assets/imgs/Line-Following Robot.gif
 robots: noindex 
 ---
 
